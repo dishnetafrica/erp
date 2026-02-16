@@ -1,0 +1,62 @@
+{
+  "version": "1",
+  "information": {
+    "name": "ISP ERP Platform",
+    "description": "Enterprise-grade ISP accounting system with UISP integration, bank reconciliation, expense management, and financial intelligence",
+    "url": "https://github.com/isp-erp",
+    "version": "2.0.0",
+    "author": "ISP ERP Team",
+    "minimumUcrmVersion": "3.0.0"
+  },
+  "menu": [
+    {
+      "label": "Dashboard",
+      "type": "admin",
+      "target": "iframe",
+      "key": "dashboard"
+    },
+    {
+      "label": "Cashbook",
+      "type": "admin",
+      "target": "iframe",
+      "key": "cashbook"
+    },
+    {
+      "label": "Banks",
+      "type": "admin",
+      "target": "iframe",
+      "key": "banks"
+    },
+    {
+      "label": "Expenses",
+      "type": "admin",
+      "target": "iframe",
+      "key": "expenses"
+    },
+    {
+      "label": "Reconciliation",
+      "type": "admin",
+      "target": "iframe",
+      "key": "reconciliation"
+    },
+    {
+      "label": "General Ledger",
+      "type": "admin",
+      "target": "iframe",
+      "key": "ledger"
+    },
+    {
+      "label": "Reports",
+      "type": "admin",
+      "target": "iframe",
+      "key": "reports"
+    },
+    {
+      "label": "Settings",
+      "type": "admin",
+      "target": "iframe",
+      "key": "settings"
+    }
+  ],
+  "configuration": []
+}
